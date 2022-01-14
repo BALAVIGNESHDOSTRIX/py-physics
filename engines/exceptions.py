@@ -1,0 +1,1 @@
+class ElecticEngineException(Exception): pass
